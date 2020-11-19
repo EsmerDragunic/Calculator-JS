@@ -1,1 +1,1 @@
-## [Calculator-JS]{https://esmerdragunic.github.io/Calculator-JS/}
+# Calculator-JS {https://esmerdragunic.github.io/Calculator-JS/}
